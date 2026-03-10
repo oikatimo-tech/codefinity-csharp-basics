@@ -3,14 +3,13 @@ using System;
 namespace ConsoleApp {
     public class Program {
         public static void Main(string[] args) {
-            // Declare a string variable for the book's title
-            string bookTitle = "___";
-            // Declare a string variable for the author's name
-            string authorName = "___";
-
-            // Print the book title
+          
+            string bookTitle = "The Great Gatsby";
+          
+            string authorName = "F. Scott Fitzgerald";
+          
             Console.WriteLine(bookTitle);
-            // Print the author's name
+
             Console.WriteLine(authorName);
         }
 
